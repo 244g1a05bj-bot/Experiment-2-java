@@ -68,7 +68,7 @@ System.out.println("Marks:"+marks);
 }
 }
 class Main{
-public static void Main(String []args){
+public static void main(String []args){
 Student s1=new Student("Alice",20,85);
 s1.display();
 }
