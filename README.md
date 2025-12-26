@@ -19,3 +19,4 @@ System.out.println("Sum of two numbers:"+result);
 
 ```
 # OUTPUT
+![output of Myclass](Myclass.png)
